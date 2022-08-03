@@ -1,0 +1,6 @@
+make your own jar!!
+
+javapackager -createjar -srcdir build/classes -appclass diceRoller.DiceRoller3000 -outfile diceroller -outdir out
+
+i used the javapackager from azul zulu jdk 1.8
+link -> https://www.azul.com/downloads/?package=jdk#download-openjdk
